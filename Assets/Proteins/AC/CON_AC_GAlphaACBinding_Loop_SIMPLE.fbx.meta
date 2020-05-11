@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: ce4b1ab3b9db757459cc7fa2c8779915
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A1
+    100002: A10
+    100004: A10_2
+    100006: A10_3
+    100008: A10_4
+    100010: A11
+    100012: A11_2
+    100014: A11_3
+    100016: A11_4
+    100018: A1_2
+    100020: A1_3
+    100022: A1_4
+    100024: A1_5
+    100026: A2
+    100028: A2_2
+    100030: A2_3
+    100032: A2_4
+    100034: A3
+    100036: A3_2
+    100038: A3_3
+    100040: A3_4
+    100042: A4
+    100044: A4_2
+    100046: A4_3
+    100048: A4_4
+    100050: A5
+    100052: A5_2
+    100054: A5_3
+    100056: A5_4
+    100058: A6
+    100060: A6_2
+    100062: A6_3
+    100064: A6_4
+    100066: A7
+    100068: A7_2
+    100070: A7_3
+    100072: A7_4
+    100074: A8
+    100076: A8_2
+    100078: A8_3
+    100080: A8_4
+    100082: A9
+    100084: A9_2
+    100086: A9_3
+    100088: A9_4
+    100090: CON_AC_4CLF_RIG_101419_v2_AC_massing_1
+    100092: //RootNode
+    100094: CON_AC_4CLF_101419_v2_AC_A
+    100096: CON_AC_4CLF_101419_v2_AC_B
+    400000: A1
+    400002: A10
+    400004: A10_2
+    400006: A10_3
+    400008: A10_4
+    400010: A11
+    400012: A11_2
+    400014: A11_3
+    400016: A11_4
+    400018: A1_2
+    400020: A1_3
+    400022: A1_4
+    400024: A1_5
+    400026: A2
+    400028: A2_2
+    400030: A2_3
+    400032: A2_4
+    400034: A3
+    400036: A3_2
+    400038: A3_3
+    400040: A3_4
+    400042: A4
+    400044: A4_2
+    400046: A4_3
+    400048: A4_4
+    400050: A5
+    400052: A5_2
+    400054: A5_3
+    400056: A5_4
+    400058: A6
+    400060: A6_2
+    400062: A6_3
+    400064: A6_4
+    400066: A7
+    400068: A7_2
+    400070: A7_3
+    400072: A7_4
+    400074: A8
+    400076: A8_2
+    400078: A8_3
+    400080: A8_4
+    400082: A9
+    400084: A9_2
+    400086: A9_3
+    400088: A9_4
+    400090: CON_AC_4CLF_RIG_101419_v2_AC_massing_1
+    400092: //RootNode
+    400094: CON_AC_4CLF_101419_v2_AC_A
+    400096: CON_AC_4CLF_101419_v2_AC_B
+    2100000: No Name
+    2300000: CON_AC_4CLF_101419_v2_AC_B
+    3300000: CON_AC_4CLF_101419_v2_AC_B
+    4300000: CON_AC_4CLF_RIG_101419_v2_AC_massing_1
+    4300002: CON_AC_4CLF_101419_v2_AC_A
+    4300004: CON_AC_4CLF_101419_v2_AC_B
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    13700000: CON_AC_4CLF_RIG_101419_v2_AC_massing_1
+    13700002: CON_AC_4CLF_101419_v2_AC_A
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

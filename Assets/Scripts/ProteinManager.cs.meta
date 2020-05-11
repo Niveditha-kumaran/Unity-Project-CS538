@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 552573956886fe148a94703ae4707194
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GLP1R: {fileID: 114214141799708946, guid: c3d12f731a6bc7a44b9053921ace2e25, type: 3}
+  - AC: {fileID: 5006246507420470585, guid: edcd6a661b452c648831fba0919a2450, type: 3}
+  - ATP: {fileID: 6284560540169824164, guid: 5cae96f8486b498489ba7405b28fa170, type: 3}
+  - CAMP: {fileID: 1721110592873455827, guid: 7bec669889a619445bb998d3a581d7ab, type: 3}
+  - GDP: {fileID: 426011594744733249, guid: 5e1a03a6f36dd524b81b064efead5b6d, type: 3}
+  - GLP1: {fileID: 2481090756849142201, guid: 5aad34f65f200da43a46f1d93e626644, type: 3}
+  - G_PRO: {fileID: 4122617463496079069, guid: 74853c605703934479be63d75aad24bd, type: 3}
+  - PKA_CAT: {fileID: 4272689994251787561, guid: 95aa7d7c68848e7439d0f4322f57230b,
+      type: 3}
+  - PKA: {fileID: 5483362049310743224, guid: b96f5ad747af6b9498e0d9a31512befa, type: 3}
+  - G_ALP: {fileID: 7413864446100479148, guid: b747b90f9a1a1f341b427c099ac493a5, type: 3}
+  - hologramCollection: {instanceID: 0}
+  - proteinParent: {instanceID: 0}
+  - playSpace: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

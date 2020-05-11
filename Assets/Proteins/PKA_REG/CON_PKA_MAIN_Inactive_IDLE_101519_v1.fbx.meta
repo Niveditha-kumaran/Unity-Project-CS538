@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 8d9d1935ce9a663458a84a16d78b7f51
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CatayticDomain1_CTRL
+    100002: CatayticDomain2_CTRL
+    100004: CON_PKA_3TNP_Main_100119_v1:PKA
+    100006: //RootNode
+    100008: joint10
+    100010: joint11
+    100012: joint12
+    100014: joint13
+    100016: joint14
+    100018: joint15
+    100020: joint16
+    100022: joint17
+    100024: joint18
+    100026: joint2
+    100028: joint20
+    100030: joint22
+    100032: joint3
+    100034: joint4
+    100036: joint5
+    100038: joint6
+    100040: joint7
+    100042: joint8
+    100044: nurbsCircle10
+    100046: nurbsCircle12
+    100048: nurbsCircle13
+    100050: nurbsCircle14
+    100052: nurbsCircle15
+    100054: nurbsCircle16
+    100056: nurbsCircle17
+    100058: nurbsCircle18
+    100060: nurbsCircle19
+    100062: nurbsCircle2
+    100064: nurbsCircle20
+    100066: nurbsCircle22
+    100068: nurbsCircle3
+    100070: nurbsCircle4
+    100072: nurbsCircle5
+    100074: nurbsCircle6
+    100076: nurbsCircle7
+    100078: nurbsCircle8
+    100080: PKA_CatayticDomain1
+    100082: PKA_CatayticDomain2
+    100084: PKA_Massing
+    100086: PKA_MasterCTRL
+    100088: PKA_MoveCTRL
+    100090: PKA_Regulatory1
+    100092: PKA_Regulatory2
+    100094: PKA_Strand1
+    100096: PKA_Strand2
+    100098: Regulatory1_joint21
+    100100: Regulatory1_nurbsCircle21
+    100102: Regulatory2_joint19
+    100104: Regulatory2_nurbsCircle9
+    100106: Strand1_joint9
+    100108: Strand1_nurbsCircle11
+    100110: Strand2_joint1
+    100112: Strand2_nurbsCircle1
+    400000: CatayticDomain1_CTRL
+    400002: CatayticDomain2_CTRL
+    400004: CON_PKA_3TNP_Main_100119_v1:PKA
+    400006: //RootNode
+    400008: joint10
+    400010: joint11
+    400012: joint12
+    400014: joint13
+    400016: joint14
+    400018: joint15
+    400020: joint16
+    400022: joint17
+    400024: joint18
+    400026: joint2
+    400028: joint20
+    400030: joint22
+    400032: joint3
+    400034: joint4
+    400036: joint5
+    400038: joint6
+    400040: joint7
+    400042: joint8
+    400044: nurbsCircle10
+    400046: nurbsCircle12
+    400048: nurbsCircle13
+    400050: nurbsCircle14
+    400052: nurbsCircle15
+    400054: nurbsCircle16
+    400056: nurbsCircle17
+    400058: nurbsCircle18
+    400060: nurbsCircle19
+    400062: nurbsCircle2
+    400064: nurbsCircle20
+    400066: nurbsCircle22
+    400068: nurbsCircle3
+    400070: nurbsCircle4
+    400072: nurbsCircle5
+    400074: nurbsCircle6
+    400076: nurbsCircle7
+    400078: nurbsCircle8
+    400080: PKA_CatayticDomain1
+    400082: PKA_CatayticDomain2
+    400084: PKA_Massing
+    400086: PKA_MasterCTRL
+    400088: PKA_MoveCTRL
+    400090: PKA_Regulatory1
+    400092: PKA_Regulatory2
+    400094: PKA_Strand1
+    400096: PKA_Strand2
+    400098: Regulatory1_joint21
+    400100: Regulatory1_nurbsCircle21
+    400102: Regulatory2_joint19
+    400104: Regulatory2_nurbsCircle9
+    400106: Strand1_joint9
+    400108: Strand1_nurbsCircle11
+    400110: Strand2_joint1
+    400112: Strand2_nurbsCircle1
+    2100000: CON_PKA_3TNP_Main_100119_v1_Paint
+    2100002: CON_PKA_3TNP_Main_100119_v1_Paint_
+    2300000: PKA_CatayticDomain1
+    2300002: PKA_CatayticDomain2
+    2300004: PKA_Massing
+    3300000: PKA_CatayticDomain1
+    3300002: PKA_CatayticDomain2
+    3300004: PKA_Massing
+    4300000: PKA_Strand1
+    4300002: PKA_Strand2
+    4300004: PKA_Regulatory1
+    4300006: PKA_Regulatory2
+    4300008: PKA_Massing
+    4300010: PKA_CatayticDomain1
+    4300012: PKA_CatayticDomain2
+    7400000: PKA_idle_101519
+    9500000: //RootNode
+    13700000: PKA_Regulatory1
+    13700002: PKA_Regulatory2
+    13700004: PKA_Strand1
+    13700006: PKA_Strand2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CON_PKA_3TNP_Main_100119_v1_Paint
+    second: {fileID: 2100000, guid: 303fa3c4989df04469a3091b27db3ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CON_PKA_3TNP_Main_100119_v1_Paint_
+    second: {fileID: 2100000, guid: 3d686ce9007c2c9448687eda7e4e3b8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PKA_idle_101519
+      takeName: 101519_v1
+      firstFrame: 1
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

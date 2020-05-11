@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GLP1R_Material1
+  m_Shader: {fileID: 34, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ENVIRONMENTLIGHTINGMAP:
+        m_Texture: {fileID: 8900000, guid: 8d16389b2f1d3f74eb00edd429fae189, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NmlTex:
+        m_Texture: {fileID: 2800000, guid: 3300e81f02e64924eb7cb7782713b126, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PosTex:
+        m_Texture: {fileID: 2800000, guid: 3300e81f02e64924eb7cb7782713b126, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BLOOMAMOUNT: 5.521512
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DT: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _ENVIRONMENTLIGHTINTENSITY: 1
+    - _ENVIRONMENTRESOLUTION: 6.47
+    - _FOGFAR: 50
+    - _FOGSTART: 31
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _HeadClipDistance: 0.3
+    - _HeadClipPatternFrequency: 50
+    - _HeadClipPatternThicknessPct: 0.2
+    - _LIGHT2X: 0
+    - _Length: 1
+    - _Light1SPECINTENSITY: 0.059
+    - _Light1X: 0
+    - _Light1Y: 0
+    - _Light1Z: 0
+    - _Light2SPECINTENSITY: 0.113
+    - _Light2Y: 0
+    - _Light2Z: 0
+    - _ManualClockTime: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalIntensity: 1
+    - _OcclusionStrength: 1
+    - _OutlineWidth: 1.08
+    - _Parallax: 0.02
+    - _Shininess: 0.7
+    - _Shininess1: 0
+    - _Shininess2: 75.7
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularIntensity: 0.2
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _VERTEXCOLORAMOUNT: 0.722
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _BLOOMCOLOR: {r: 0.9433962, g: 0.882647, b: 0.08454961, a: 0}
+    - _Color: {r: 0.8980393, g: 0.48627454, b: 0.3019608, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FOGCOLOR: {r: 0.26415092, g: 0.09087267, b: 0.0012459978, a: 0}
+    - _LIGHT1COLOR: {r: 1, g: 0.4938776, b: 0, a: 0}
+    - _LIGHT2COLOR: {r: 0.5566038, g: 0.123398006, b: 0.123398006, a: 0}
+    - _Light1speccolor: {r: 1, g: 0.53936607, b: 0.3726415, a: 1}
+    - _Light2SpecColor: {r: 0.4716981, g: 0.064524755, b: 0.064524755, a: 1}
+    - _OutlineColor: {r: 0.6320754, g: 0.15801886, b: 0.15801886, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+    - _VERTEXCOLOROVERRIDE: {r: 1, g: 1, b: 1, a: 1}

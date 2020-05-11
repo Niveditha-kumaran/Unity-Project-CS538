@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 5eeb89b81cfe39344b07086556b6d986
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CON_GLP1_Rig_Main_101019_v1:GLP1_CTRLS
+    100004: CON_GLP1_Rig_Main_101019_v1:GLP1_Helix
+    100006: CON_GLP1_Rig_Main_101019_v1:GLP1_joints
+    100008: CON_GLP1_Rig_Main_101019_v1:GLP1_MasterCTRL
+    100010: CON_GLP1_Rig_Main_101019_v1:GLP1_Mesh
+    100012: CON_GLP1_Rig_Main_101019_v1:GLP1_MoveCTRL
+    100014: CON_GLP1_Rig_Main_101019_v1:joint10
+    100016: CON_GLP1_Rig_Main_101019_v1:joint11
+    100018: CON_GLP1_Rig_Main_101019_v1:joint12
+    100020: CON_GLP1_Rig_Main_101019_v1:joint13
+    100022: CON_GLP1_Rig_Main_101019_v1:joint14
+    100024: CON_GLP1_Rig_Main_101019_v1:joint15
+    100026: CON_GLP1_Rig_Main_101019_v1:joint16
+    100028: CON_GLP1_Rig_Main_101019_v1:joint17
+    100030: CON_GLP1_Rig_Main_101019_v1:joint18
+    100032: CON_GLP1_Rig_Main_101019_v1:joint19
+    100034: CON_GLP1_Rig_Main_101019_v1:joint2
+    100036: CON_GLP1_Rig_Main_101019_v1:joint20
+    100038: CON_GLP1_Rig_Main_101019_v1:joint21
+    100040: CON_GLP1_Rig_Main_101019_v1:joint22
+    100042: CON_GLP1_Rig_Main_101019_v1:joint23
+    100044: CON_GLP1_Rig_Main_101019_v1:joint24
+    100046: CON_GLP1_Rig_Main_101019_v1:joint25
+    100048: CON_GLP1_Rig_Main_101019_v1:joint26
+    100050: CON_GLP1_Rig_Main_101019_v1:joint27
+    100052: CON_GLP1_Rig_Main_101019_v1:joint28
+    100054: CON_GLP1_Rig_Main_101019_v1:joint29
+    100056: CON_GLP1_Rig_Main_101019_v1:joint3
+    100058: CON_GLP1_Rig_Main_101019_v1:joint30
+    100060: CON_GLP1_Rig_Main_101019_v1:joint31
+    100062: CON_GLP1_Rig_Main_101019_v1:joint4
+    100064: CON_GLP1_Rig_Main_101019_v1:joint5
+    100066: CON_GLP1_Rig_Main_101019_v1:joint6
+    100068: CON_GLP1_Rig_Main_101019_v1:joint7
+    100070: CON_GLP1_Rig_Main_101019_v1:joint8
+    100072: CON_GLP1_Rig_Main_101019_v1:joint9
+    100074: CON_GLP1_Rig_Main_101019_v1:nurbsCircle10
+    100076: CON_GLP1_Rig_Main_101019_v1:nurbsCircle11
+    100078: CON_GLP1_Rig_Main_101019_v1:nurbsCircle12
+    100080: CON_GLP1_Rig_Main_101019_v1:nurbsCircle13
+    100082: CON_GLP1_Rig_Main_101019_v1:nurbsCircle14
+    100084: CON_GLP1_Rig_Main_101019_v1:nurbsCircle15
+    100086: CON_GLP1_Rig_Main_101019_v1:nurbsCircle16
+    100088: CON_GLP1_Rig_Main_101019_v1:nurbsCircle17
+    100090: CON_GLP1_Rig_Main_101019_v1:nurbsCircle18
+    100092: CON_GLP1_Rig_Main_101019_v1:nurbsCircle19
+    100094: CON_GLP1_Rig_Main_101019_v1:nurbsCircle2
+    100096: CON_GLP1_Rig_Main_101019_v1:nurbsCircle20
+    100098: CON_GLP1_Rig_Main_101019_v1:nurbsCircle21
+    100100: CON_GLP1_Rig_Main_101019_v1:nurbsCircle22
+    100102: CON_GLP1_Rig_Main_101019_v1:nurbsCircle23
+    100104: CON_GLP1_Rig_Main_101019_v1:nurbsCircle24
+    100106: CON_GLP1_Rig_Main_101019_v1:nurbsCircle25
+    100108: CON_GLP1_Rig_Main_101019_v1:nurbsCircle26
+    100110: CON_GLP1_Rig_Main_101019_v1:nurbsCircle27
+    100112: CON_GLP1_Rig_Main_101019_v1:nurbsCircle28
+    100114: CON_GLP1_Rig_Main_101019_v1:nurbsCircle29
+    100116: CON_GLP1_Rig_Main_101019_v1:nurbsCircle3
+    100118: CON_GLP1_Rig_Main_101019_v1:nurbsCircle4
+    100120: CON_GLP1_Rig_Main_101019_v1:nurbsCircle5
+    100122: CON_GLP1_Rig_Main_101019_v1:nurbsCircle6
+    100124: CON_GLP1_Rig_Main_101019_v1:nurbsCircle7
+    100126: CON_GLP1_Rig_Main_101019_v1:nurbsCircle8
+    100128: CON_GLP1_Rig_Main_101019_v1:nurbsCircle9
+    400000: //RootNode
+    400002: CON_GLP1_Rig_Main_101019_v1:GLP1_CTRLS
+    400004: CON_GLP1_Rig_Main_101019_v1:GLP1_Helix
+    400006: CON_GLP1_Rig_Main_101019_v1:GLP1_joints
+    400008: CON_GLP1_Rig_Main_101019_v1:GLP1_MasterCTRL
+    400010: CON_GLP1_Rig_Main_101019_v1:GLP1_Mesh
+    400012: CON_GLP1_Rig_Main_101019_v1:GLP1_MoveCTRL
+    400014: CON_GLP1_Rig_Main_101019_v1:joint10
+    400016: CON_GLP1_Rig_Main_101019_v1:joint11
+    400018: CON_GLP1_Rig_Main_101019_v1:joint12
+    400020: CON_GLP1_Rig_Main_101019_v1:joint13
+    400022: CON_GLP1_Rig_Main_101019_v1:joint14
+    400024: CON_GLP1_Rig_Main_101019_v1:joint15
+    400026: CON_GLP1_Rig_Main_101019_v1:joint16
+    400028: CON_GLP1_Rig_Main_101019_v1:joint17
+    400030: CON_GLP1_Rig_Main_101019_v1:joint18
+    400032: CON_GLP1_Rig_Main_101019_v1:joint19
+    400034: CON_GLP1_Rig_Main_101019_v1:joint2
+    400036: CON_GLP1_Rig_Main_101019_v1:joint20
+    400038: CON_GLP1_Rig_Main_101019_v1:joint21
+    400040: CON_GLP1_Rig_Main_101019_v1:joint22
+    400042: CON_GLP1_Rig_Main_101019_v1:joint23
+    400044: CON_GLP1_Rig_Main_101019_v1:joint24
+    400046: CON_GLP1_Rig_Main_101019_v1:joint25
+    400048: CON_GLP1_Rig_Main_101019_v1:joint26
+    400050: CON_GLP1_Rig_Main_101019_v1:joint27
+    400052: CON_GLP1_Rig_Main_101019_v1:joint28
+    400054: CON_GLP1_Rig_Main_101019_v1:joint29
+    400056: CON_GLP1_Rig_Main_101019_v1:joint3
+    400058: CON_GLP1_Rig_Main_101019_v1:joint30
+    400060: CON_GLP1_Rig_Main_101019_v1:joint31
+    400062: CON_GLP1_Rig_Main_101019_v1:joint4
+    400064: CON_GLP1_Rig_Main_101019_v1:joint5
+    400066: CON_GLP1_Rig_Main_101019_v1:joint6
+    400068: CON_GLP1_Rig_Main_101019_v1:joint7
+    400070: CON_GLP1_Rig_Main_101019_v1:joint8
+    400072: CON_GLP1_Rig_Main_101019_v1:joint9
+    400074: CON_GLP1_Rig_Main_101019_v1:nurbsCircle10
+    400076: CON_GLP1_Rig_Main_101019_v1:nurbsCircle11
+    400078: CON_GLP1_Rig_Main_101019_v1:nurbsCircle12
+    400080: CON_GLP1_Rig_Main_101019_v1:nurbsCircle13
+    400082: CON_GLP1_Rig_Main_101019_v1:nurbsCircle14
+    400084: CON_GLP1_Rig_Main_101019_v1:nurbsCircle15
+    400086: CON_GLP1_Rig_Main_101019_v1:nurbsCircle16
+    400088: CON_GLP1_Rig_Main_101019_v1:nurbsCircle17
+    400090: CON_GLP1_Rig_Main_101019_v1:nurbsCircle18
+    400092: CON_GLP1_Rig_Main_101019_v1:nurbsCircle19
+    400094: CON_GLP1_Rig_Main_101019_v1:nurbsCircle2
+    400096: CON_GLP1_Rig_Main_101019_v1:nurbsCircle20
+    400098: CON_GLP1_Rig_Main_101019_v1:nurbsCircle21
+    400100: CON_GLP1_Rig_Main_101019_v1:nurbsCircle22
+    400102: CON_GLP1_Rig_Main_101019_v1:nurbsCircle23
+    400104: CON_GLP1_Rig_Main_101019_v1:nurbsCircle24
+    400106: CON_GLP1_Rig_Main_101019_v1:nurbsCircle25
+    400108: CON_GLP1_Rig_Main_101019_v1:nurbsCircle26
+    400110: CON_GLP1_Rig_Main_101019_v1:nurbsCircle27
+    400112: CON_GLP1_Rig_Main_101019_v1:nurbsCircle28
+    400114: CON_GLP1_Rig_Main_101019_v1:nurbsCircle29
+    400116: CON_GLP1_Rig_Main_101019_v1:nurbsCircle3
+    400118: CON_GLP1_Rig_Main_101019_v1:nurbsCircle4
+    400120: CON_GLP1_Rig_Main_101019_v1:nurbsCircle5
+    400122: CON_GLP1_Rig_Main_101019_v1:nurbsCircle6
+    400124: CON_GLP1_Rig_Main_101019_v1:nurbsCircle7
+    400126: CON_GLP1_Rig_Main_101019_v1:nurbsCircle8
+    400128: CON_GLP1_Rig_Main_101019_v1:nurbsCircle9
+    2100000: CON_GLP1_Rig_Main_101019_v1_Paint
+    4300000: CON_GLP1_Rig_Main_101019_v1:GLP1_Helix
+    7400000: GLP1_Idle_101519
+    9500000: //RootNode
+    13700000: CON_GLP1_Rig_Main_101019_v1:GLP1_Helix
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CON_GLP1_Rig_Main_101019_v1_Paint
+    second: {fileID: 2100000, guid: 9c882f392815a884ea437d7b4e52bbc0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GLP1_Idle_101519
+      takeName: 101519_v1
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
